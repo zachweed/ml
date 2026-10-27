@@ -11,6 +11,10 @@
 ## Linear and Logistic Regression
 
 1. Linear regression of sales to ads sold to predict future sales from ads sold.
+
+## Classification
+
+1. Spam Detection from e-mail data.
 2. Predicting Electricity Generation in Future.
 3. Predicting Room Occupancy from Sensor Data.
 
