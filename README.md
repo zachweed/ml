@@ -1,5 +1,10 @@
 ## machine learning portfolio
 
+### Hamiltonian Neural Networks
+
+- Representing Kinetic and Potential Energy of Objects in Space
+- Predicting Behavior of a Spring Pendulum with Hamiltonians
+
 ### Graph Neural Networks
 
 - Encoding graphs in neural networks, with `networkx`
