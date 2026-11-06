@@ -1,24 +1,27 @@
-# machine_learning_portfolio
+## machine learning portfolio
 
-## Clustering and Segmentation (K-Means, Finding best K, Elbow Method)
+### Transformers (Sequence Transduction)
 
-1. Segmenting customer spending proportionate to their annual income.
+- Benchmarking Traditional and Flash Attention Attention Computation
 
-## Principal Component Analysis (Dimensionality Reduction)
+### Clustering and Segmentation (K-Means, Finding best K, Elbow Method)
 
-1. Segmenting credit card users into customer segments from credit card balance.
+- Segmenting Customers Relative to Income
 
-## Linear and Logistic Regression
+### Principal Component Analysis (Dimensionality Reduction)
 
-1. Linear regression of sales to ads sold to predict future sales from ads sold.
+- Credit Card Balance Customer Segmentation
 
-## Classification
+### Linear and Logistic Regression
 
-1. Spam Detection from e-mail data.
-2. Predicting Electricity Generation in Future.
-3. Predicting Room Occupancy from Sensor Data.
+-  Predicting Advertisement Sales
 
-## Deep Learning (with Keras and TensorFlow)
+### Classification
 
-1. Classify spam status of e-mails with TensorFlow and Keras.
+- Spam Detection,
+- Predicting Electricity Generation, &
+- Predicting Room Occupancy from C02 Sensors
 
+### (Simple) Deep Learning (with Keras and TensorFlow)
+
+- Classify Spam with TensorFlow and Keras
