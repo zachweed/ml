@@ -1,5 +1,10 @@
 ## machine learning portfolio
 
+### Graph Neural Networks
+
+- Encoding graphs in neural networks, with `networkx`
+- Predicting presence of Nitrogen in a molecule
+
 ### Stable Diffusion (Denoising)
 
 - Denoising with a Diffusion Model,
