@@ -1,5 +1,11 @@
 ## machine learning portfolio
 
+### Stable Diffusion (Denoising)
+
+- Denoising with a Diffusion Model,
+- High & Low Beta Schedulers As a Means of Dialing In De-Noising, &
+- Frechet Inception Distance in Quality Validation
+
 ### Transformers (Sequence Transduction)
 
 - Benchmarking Traditional and Flash Attention Attention Computation
