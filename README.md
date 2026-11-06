@@ -1,5 +1,9 @@
 ## machine learning portfolio
 
+### Gradient Descent and Partial Derivatives
+
+- Showing Transformations in Functions Over Some Interval
+
 ### Hamiltonian Neural Networks
 
 - Representing Kinetic and Potential Energy of Objects in Space
