@@ -45,3 +45,6 @@
 ### (Simple) Deep Learning (with Keras and TensorFlow)
 
 - Classify Spam with TensorFlow and Keras
+
+
+please note: some of the notebooks contain screenshots, intentionally
